@@ -27,7 +27,7 @@
     "eth-block-tracker": "^4.4.2",
     "eth-json-rpc-errors": "^2.0.2",
     "ethereumjs-block": "^1.2.2",
-    "ethereumjs-tx": "^1.2.0",
+    "@ethereumjs/tx": "^3.3.0",
     "ethereumjs-util": "^5.1.5",
     "ethereumjs-vm": "^2.3.4",
     "json-stable-stringify": "^1.0.1",
